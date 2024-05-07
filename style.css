@@ -1,0 +1,20 @@
+    
+    
+   header{
+    background-color:#1c2788;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+
+   }
+    
+     .Estadio{
+        width: 25%;
+
+    }
+
+ 
+
